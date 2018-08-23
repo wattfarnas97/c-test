@@ -43,6 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CarteGraphique.cs" />
+    <Compile Include="CarteGraphiqueFixe.cs" />
+    <Compile Include="CarteGraphiquePortable.cs" />
+    <Compile Include="CarteMere.cs" />
+    <Compile Include="CarteMereFixe.cs" />
+    <Compile Include="CarteMerePortable.cs" />
+    <Compile Include="Ordinateur.cs" />
+    <Compile Include="OrdinateurFixe.cs" />
+    <Compile Include="OrdinateurPortable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
